@@ -18,4 +18,4 @@ const juegoAdivinanza = () => {
     }
 };
 
-juegoAdivinanza();
+juegoAdivinanza(); 
