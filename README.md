@@ -1,7 +1,7 @@
 # adivina_numero_secreto
 
 Hecho en JavaScript, el programa genera un numero entre 0 y 100, y te invita a adivinarlo.
-Para el profe ruben, clase N°2. UVE-UTN.
+Clase N°2. Profesor Rubén. UVE-UTN.
 
 ## Uso y ejecucion
 
